@@ -450,11 +450,7 @@ abstract class LOG {
 
 		// open for read/write (created if not exist), not reduced, put cursor at START
 
-		$pathToFile    = implode( DIRECTORY_SEPARATOR, [
-			self::$PathToLogDir,
-			self::$FileName,
-			self::$FileExtension,
-		] );
+		$pathToFile    = self::$PathToLogDir . DIRECTORY_SEPARATOR . self::$FileName . '.' . self::$FileExtension;
 		$logFileHandle = fopen( $pathToFile, 'c+' );
 
 		// something wrong
