@@ -1,0 +1,15 @@
+{
+  "name": "lightsource/log",
+  "type": "library",
+  "description": "Logging",
+  "license": "MIT",
+  "require": {
+    "lightsource/date-time": "^2.0",
+    "php": ">7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "LightSource\\Log\\": ""
+    }
+  }
+}
