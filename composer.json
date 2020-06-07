@@ -1,7 +1,7 @@
 {
   "name": "lightsource/log",
   "type": "library",
-  "description": "Logging",
+  "description": "Class for logging with multiple levels and support multi-thread working",
   "license": "MIT",
   "require": {
     "lightsource/date-time": "^2.0",
