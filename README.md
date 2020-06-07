@@ -11,8 +11,7 @@ composer require lightsource/log
 ## Example of usage
 
 ```
-use LightSource\DataTypes\DATA_TYPES;
-use LightSource\StdResponse\STD_RESPONSE;
+use LightSource\Log\LOG;
 
 require_once __DIR__ . '/vendor/autoload.php';
 
