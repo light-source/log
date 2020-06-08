@@ -1,4 +1,9 @@
 # Log
+[![Latest Stable Version](https://poser.pugx.org/lightsource/log/v)](//packagist.org/packages/lightsource/log)
+[![Total Downloads](https://poser.pugx.org/lightsource/log/downloads)](//packagist.org/packages/lightsource/log)
+[![Monthly Downloads](https://poser.pugx.org/lightsource/log/d/monthly)](//packagist.org/packages/lightsource/log)
+[![Daily Downloads](https://poser.pugx.org/lightsource/log/d/daily)](//packagist.org/packages/lightsource/log)
+[![License](https://poser.pugx.org/lightsource/log/license)](//packagist.org/packages/lightsource/log)
 
 ## What is it
 Class for logging with multiple levels and support multi-thread working
